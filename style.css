@@ -1,0 +1,28 @@
+h1{
+    color : red;
+}
+*{
+    border : solid;
+}
+.header
+{
+   background-color :aliceblue;
+   display : flex;
+   justify-content: space-between;
+}
+.description
+{
+    display : flex;
+    flex-direction: column;
+}
+.grid
+{
+    display : flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+.footer
+{
+    display : flex;
+    justify-content: flex-end;
+}
